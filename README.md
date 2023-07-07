@@ -14,7 +14,9 @@
 
 <h2> 📜Certifications and Awards</h2>
 
-- [[Tutoral] Active Directory Home Lab](Insert URL)
+- [Microsoft Certified: Azure AI Fundamentals](https://i.imgur.com/R0ZJy82.png)
+- [ISC2 Certified in Cybersecurity (CC) Training](https://i.imgur.com/4qgaKe6.png)
+- [Introduction to Cyber Security -CISCO](https://i.imgur.com/4qgaKe6.png)
 
 
 <h2>📺 Popular YouTube Videos</h2>
