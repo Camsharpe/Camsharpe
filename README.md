@@ -8,6 +8,8 @@
 
 -[Tic Tac Toe](https://github.com/Camsharpe/TicTacToe2v2)
 
+-[Calculation of Grades ( Based on Class Syllabus 2022)](https://github.com/Camsharpe/Calculatemygrade)
+
 <h2> 📜Certifications and Awards</h2>
 
 - [[Tutoral] Active Directory Home Lab](Insert URL)
