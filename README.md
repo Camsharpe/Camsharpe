@@ -10,6 +10,8 @@
 
 -[Calculation of Grades ( Based on Class Syllabus 2022)](https://github.com/Camsharpe/Calculatemygrade)
 
+-[Flashcard Game Code Criminal Justice](https://github.com/Camsharpe/Quiz-Practice-CriminalJusticsCode)
+
 <h2> 📜Certifications and Awards</h2>
 
 - [[Tutoral] Active Directory Home Lab](Insert URL)
