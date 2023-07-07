@@ -6,7 +6,7 @@
 
 <h2>👨‍💻 My Programming Projects:</h2>
 
--[Tic Tac Toe]
+-[Tic Tac Toe](https://github.com/Camsharpe/TicTacToe2v2)
 
 <h2> 📜Certifications and Awards</h2>
 
