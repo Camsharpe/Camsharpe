@@ -2,7 +2,8 @@
 
 <h2>👨‍💻 My Cybersecurity Projects:</h2>
 
-- [Active Directory Home Lab](insert URL)
+- [ISSP Policy - CYBR 3300](https://drive.google.com/file/d/1uXVXMVSpz8voH3PjJ8XVWo95D-VW1-m5/view?usp=drive_link)
+- [Operating Systems Analysis for Choosing the Best Platform to Support CRM and Meeting Security Practices.](https://drive.google.com/file/d/1L8vNAN9ivRmR7hptQwOvkBRokfrjSua5/view)
 
 <h2>👨‍💻 My Programming Projects:</h2>
 
