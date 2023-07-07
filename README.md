@@ -7,7 +7,7 @@
 
 <h2>👨‍💻 My Programming Projects:</h2>
 
--[Tic Tac Toe](https://github.com/Camsharpe/TicTacToe2v2)
+-[Tic Tac Toe](https://github.com/Camsharpe/TicTacToePvsBot)
 
 -[Calculation of Grades ( Based on Class Syllabus 2022)](https://github.com/Camsharpe/Calculatemygrade)
 
