@@ -27,7 +27,7 @@
 
 
 
-[youtube]: https://www.youtube.com/c/joshmadakor
+[youtube]: https://www.linkedin.com/in/cameron-sharpe-/
 
 [linkedin]: https://www.linkedin.com/in/cameron-sharpe-/
 
