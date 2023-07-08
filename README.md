@@ -17,7 +17,7 @@
 
 - [Microsoft Certified: Azure AI Fundamentals](https://i.imgur.com/R0ZJy82.png)
 - [ISC2 Certified in Cybersecurity (CC) Training](https://i.imgur.com/4qgaKe6.png)
-- [Introduction to Cyber Security -CISCO](https://i.imgur.com/4qgaKe6.png)
+- [Introduction to Cyber Security -CISCO](https://i.imgur.com/Tp3RDXc.png)
 - [Analyze Data to Answer Questions - Google](https://i.imgur.com/yqujTgf.png)
 - [Prepare Data for Exploration - Google](https://i.imgur.com/iIn2lkH.png)
   
