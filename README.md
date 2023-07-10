@@ -30,7 +30,7 @@
   
 <h2>📧 Reach Me Via Email</h2>
 
-- (Cameronrscareer@gmail.com)
+- Cameronrscareer@gmail.com
   
 
 <h2> 🤳 Connect with me:</h2>
