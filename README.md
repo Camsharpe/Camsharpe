@@ -25,18 +25,21 @@
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [[Tutoral] Active Directory Home Lab](Insert URL)
+- [[Tutoral] Active Directory Home Lab](Insert URL
+
+  
+<h2>📧 Reach Me Via Email</h2>
+
+- [Email](Cameronrscareer@gmail.com)
+  
 
 <h2> 🤳 Connect with me:</h2>
 
-
-
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-
-
-
 [linkedin]: https://www.linkedin.com/in/cameron-sharpe-/
+
+
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
