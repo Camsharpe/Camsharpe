@@ -25,10 +25,6 @@
   
 
 
-<h2>📺 Popular YouTube Videos</h2>
-
-- [[Tutoral] Active Directory Home Lab](Insert URL
-
   
 <h2>📧 Reach Me Via Email</h2>
 
