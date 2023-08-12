@@ -18,6 +18,7 @@
 
 <h2> 📜Certifications and Awards</h2>
 
+- [AT&T Technology Academy 2023](https://www.credly.com/badges/3b6fc0f8-ee80-4293-9071-d0b04d5dc232/public_url)
 - [Microsoft Certified: Azure AI Fundamentals](https://i.imgur.com/R0ZJy82.png)
 - [ISC2 Certified in Cybersecurity (CC) Training](https://i.imgur.com/4qgaKe6.png)
 - [Introduction to Cyber Security -CISCO](https://i.imgur.com/Tp3RDXc.png)
