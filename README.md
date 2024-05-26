@@ -8,13 +8,6 @@
 - [Wirwshark Lab CYBR 4323](https://drive.google.com/file/d/1mYbPdC1eD04c0zscAw_z8fc0zvSYvggi/view?usp=drive_link)
 - [Ping and Tracert Lab](https://drive.google.com/file/d/1zfCn8FagVG4LI0mrniwlXM0GnzlzKcvY/view?usp=drive_link)
 
-<h2>👨‍💻 My Programming Projects:</h2>
-
-- [Tic Tac Toe](https://github.com/Camsharpe/TicTacToePvsBot)
-
-- [Calculation of Grades ( Based on Class Syllabus 2022)](https://github.com/Camsharpe/Calculatemygrade)
-
-- [Flashcard Game Code Criminal Justice](https://github.com/Camsharpe/Quiz-Practice-CriminalJusticsCode)
 
 <h2> 📜Certifications and Awards</h2>
 
